@@ -1,5 +1,5 @@
 def introduction (name)
-  puts "This is a phrase for #{name} using string interpolation."
+  puts "Hi, my name is #{name}."
 end
 
 def introduction_with_language (name, language)
